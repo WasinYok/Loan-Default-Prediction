@@ -1,0 +1,70 @@
+,loan_status
+person_age,-0.0
+person_income,-0.17
+person_emp_length,-0.1
+loan_amnt,0.14
+loan_int_rate,0.34
+loan_percent_income,0.38
+cb_person_cred_hist_length,-0.0
+debt_to_income_stress,0.31
+emp_stability,-0.11
+interest_burden,0.25
+person_home_ownership_MORTGAGE,-0.2
+person_home_ownership_OTHER,0.0
+person_home_ownership_OWN,-0.09
+person_home_ownership_RENT,0.24
+loan_intent_DEBTCONSOLIDATION,0.06
+loan_intent_EDUCATION,-0.05
+loan_intent_HOMEIMPROVEMENT,0.03
+loan_intent_MEDICAL,0.05
+loan_intent_PERSONAL,-0.01
+loan_intent_VENTURE,-0.06
+loan_grade_A,-0.2
+loan_grade_B,-0.08
+loan_grade_C,-0.01
+loan_grade_D,0.4
+loan_grade_E,0.18
+loan_grade_F,0.07
+loan_grade_G,0.05
+cb_person_default_on_file_0,-0.19
+cb_person_default_on_file_1,0.19
+age_group_<25,0.01
+age_group_25-34,-0.02
+age_group_35-44,0.0
+age_group_45-54,0.01
+age_group_55-64,0.01
+age_group_65+,0.0
+emp_length_group_0,0.06
+emp_length_group_1-3,0.07
+emp_length_group_4-7,-0.05
+emp_length_group_8-15,-0.07
+emp_length_group_16-30,-0.01
+emp_length_group_31+,-0.0
+loan_grade_class_Bad,0.45
+loan_grade_class_Good,-0.45
+int_rate_group_Moderate,-0.1
+int_rate_group_High,-0.03
+int_rate_group_Very High,0.11
+int_rate_group_Extremely High,0.34
+loan_percent_income_group_Low,-0.15
+loan_percent_income_group_Moderate,-0.12
+loan_percent_income_group_High,0.16
+loan_percent_income_group_Very High,0.33
+loan_percent_income_group_Extremely High,0.04
+credit_hist_length_group_Very Short,0.01
+credit_hist_length_group_Short,0.0
+credit_hist_length_group_Medium,-0.02
+credit_hist_length_group_Long,0.0
+credit_hist_length_group_Very Long,0.01
+income_group_<20k,0.09
+income_group_20k-40k,0.19
+income_group_40k-60k,-0.01
+income_group_60k-80k,-0.06
+income_group_80k-100k,-0.09
+income_group_100k+,-0.1
+loan_amt_group_Small,-0.05
+loan_amt_group_Medium,-0.08
+loan_amt_group_Large,-0.01
+loan_amt_group_Very Large,0.07
+loan_amt_group_Extreme,0.11
+loan_status,1.0
