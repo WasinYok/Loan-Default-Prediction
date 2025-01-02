@@ -14,7 +14,6 @@ A machine learning project predicting loan defaults with models like Logistic Re
 - correlation.csv: Correlation matrix data.
 - train.csv / test.csv: Training and testing datasets.
 - logreg_prediction.csv, rfc_prediction.csv, knn_prediction.csv, xgb_prediction.csv: Model prediction outputs.
-- sample_submission.csv: Example format for submitting predictions.
 
 # Technologies :
 
